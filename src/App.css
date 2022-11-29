@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.appdark-blue{
+  background-color: darkblue;
+  width: 252px;
+  color: #fff;
+  margin-left: 50vh;
+  margin-top: 50vh;
+}
+
+.applight-blue{
+  background-color: lightblue;
+  width: 252px;
+  color: #000;
+  margin-left: 50vh;
+  margin-top: 50vh;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
